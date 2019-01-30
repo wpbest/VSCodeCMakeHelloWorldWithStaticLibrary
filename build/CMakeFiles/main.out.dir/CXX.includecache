@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/helloworld.h
+
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/main.cpp
+helloworld.h
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/helloworld.h
+

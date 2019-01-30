@@ -1,0 +1,4 @@
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/build/CMakeFiles/rebuild_cache.dir
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/build/CMakeFiles/edit_cache.dir
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/build/CMakeFiles/main.out.dir
+/Users/william.best/Documents/GitHub/VSCodeCMakeHelloWorldWithStaticLibrary/build/CMakeFiles/helloworld.dir
